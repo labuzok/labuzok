@@ -6,4 +6,4 @@ During the first half of 2022 I spent 5 months in Porto, Portugal, where I had a
 I plan to pursue a career in widely understood Data Analysis, although I haven't yet decided which part of the industry I want to dive into.
 I've been uploading some of the projects I did during my time at AGH or I am still currently doing.
 
-Right now I am looking for an internship in Data Analysis, where I would like to develop my Pythin skills.
+Right now I am looking for an internship in Data Analysis, where I would like to develop my Python skills.
